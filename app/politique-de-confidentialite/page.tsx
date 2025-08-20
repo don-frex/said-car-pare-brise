@@ -26,7 +26,7 @@ export default function PolitiqueConfidentialitePage() {
             <h1 className="text-3xl md:text-4xl font-heading font-bold text-brand-navy mb-4">
               Politique de confidentialité
             </h1>
-            <p className="text-gray-600">Dernière mise à jour : 20 août 2024</p>
+            <p className="text-gray-600">Dernière mise à jour : 20 août 2025</p>
           </div>
 
           <div className="bg-brand-light rounded-xl p-6 mb-8">

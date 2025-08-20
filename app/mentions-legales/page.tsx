@@ -25,7 +25,7 @@ export default function MentionsLegalesPage() {
               </Button>
             </Link>
             <h1 className="text-3xl md:text-4xl font-heading font-bold text-brand-navy mb-4">Mentions légales</h1>
-            <p className="text-gray-600">Dernière mise à jour : 20 août 2024</p>
+            <p className="text-gray-600">Dernière mise à jour : 20 août 2025</p>
           </div>
 
           <div className="prose prose-gray max-w-none">

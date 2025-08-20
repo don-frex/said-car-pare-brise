@@ -349,7 +349,7 @@ export function AppointmentForm() {
                           <SelectValue placeholder="Année" />
                         </SelectTrigger>
                         <SelectContent>
-                          {Array.from({ length: 25 }, (_, i) => 2024 - i).map((year) => (
+                          {Array.from({ length: 25 }, (_, i) => 2025 - i).map((year) => (
                             <SelectItem key={year} value={year.toString()}>
                               {year}
                             </SelectItem>
