@@ -162,7 +162,7 @@ export function Footer() {
 								rel="noopener noreferrer"
 								className="underline hover:text-blue-500"
 							>
-								Site développé DON-FREX
+								Site développé par DON-FREX
 							</a>
 						</p>
 					</div>
